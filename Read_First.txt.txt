@@ -1,0 +1,4 @@
+First of all install any version of jdk and intellij there are two software to used.
+main 3 file for game execute main.java,controller.java,sample.fxml.
+and 
+directly open the game then we can open connect 4.jar file. 
