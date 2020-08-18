@@ -3,7 +3,9 @@ It is game like checker where user have to group 4 balls in row , column or diag
 
 # Snapshot Of Game
 
-First Of All, you enter both player names in the right-hand side box then click on the set button.
+```diff
++ First Of All, you enter both player names in the right-hand side box then click on the set button.
+```
 
 ![Capture1](https://user-images.githubusercontent.com/47548524/90358549-f553eb80-e073-11ea-9576-ef6c66a77d6c.PNG)
 
